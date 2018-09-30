@@ -1,2 +1,2 @@
 # cv-mobile
-setup with openbci
+setup with openbci - work in progress
